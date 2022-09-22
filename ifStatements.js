@@ -73,3 +73,24 @@ var hasSauce = true;
 if (cupsOfFlour === 1 && hasSauce === true) {
   console.log("I cannot make pizza");
 }
+
+var cupsOfFlour = 5;
+var hasSauce = false;
+
+if (cupsOfFlour === 5 && hasSauce === false) {
+  console.log("I cannot make pizza");
+}
+
+var cupsOfFlour = 2;
+var hasSauce = true
+
+if (cupsOfFlour === 2 && hasSauce === true) {
+  console.log("I can make pizza");
+}
+
+var cupsOfFlour = 3;
+var hasSauce = true
+
+if (cupsOfFlour === 3 && hasSauce === true) {
+  console.log("I can make pizza");
+}
